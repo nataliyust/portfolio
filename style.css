@@ -1,0 +1,31 @@
+p {
+    font-size: 24px;
+  }
+  
+  .text-bold {
+    font-weight: bold;
+  }
+  
+  .text-dark {
+    color: #333333;
+  }
+  p {
+    color: green;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  #blue {
+    color: blue;
+  }
+
+  .text1{
+    border: 5px solid;
+    border-color: red;
+    border-style: solid;
+    width: 50%;
+    border: 1px solid #bbb;
+    border-radius: 50px 0;
+  }
